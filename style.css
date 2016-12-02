@@ -18,3 +18,34 @@
 
   z-index: 1;
 }
+
+#digiTime {
+  width: 210px;
+  height: 30px;
+  position: absolute;
+  top: 380px;
+  left: 208px;
+  z-index: 2;
+  line-height: 33px;
+  text-align: center;
+  font-family: 'Bungee', cursive;
+  font-size: 2em;
+  color: #00ff00;
+}
+#digiSeconds {
+  width: 70px;
+  height: 30px;
+  float:right;
+}
+
+#digiMinutes {
+  width: 70px;
+  height: 30px;
+  float: right;
+}
+
+#digiHours {
+  width: 70px;
+  height: 30px;
+  float: right;
+}
