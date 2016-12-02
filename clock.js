@@ -40,6 +40,6 @@ function clockHands() {
 }
 
 //Call secondsHand function every 100ms
-var secondsTimer = setInterval(clockHands, 10);
+var secondsTimer = setInterval(clockHands, 100);
 
 });
